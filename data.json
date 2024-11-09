@@ -1,5 +1,4 @@
-{
-  "students": [
+[
     {
       "initalLetter": "e",
       "localDate": "2024/10/14",
@@ -129,4 +128,3 @@
       "class": "1CHIF"
     }
   ]
-}
